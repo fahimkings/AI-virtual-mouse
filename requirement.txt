@@ -1,0 +1,3 @@
+install this two package 
+opencv-python
+mediapipe
